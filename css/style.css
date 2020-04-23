@@ -1,0 +1,456 @@
+
+body
+{
+ 
+/*background-color: #0f0d0e;*/
+background-color: #0f0d0e;
+font-family: Arial, Helevtica, Verdana, san-serif;
+
+}
+
+h1
+{
+
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	
+}
+
+
+
+h2
+{
+	background-color:  #950303;
+	text-align: center;
+	font-size: 150%;
+	-box-shadow: 1px 1px 20px #4b4b4b;
+	webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+
+
+.main
+{
+	background-color: #445b6d
+	position:relative;
+	width:1000px; 
+	height:1000px;
+	top:0%;
+	left:0%;
+	margin:auto;				/* use to center everything on any screen*/			
+	/*border:solid 5px #ffffff;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;*/
+}
+
+.main_gallery
+{
+	position:relative;
+	width:1040px; 
+	height:900px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	/*border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	 */
+}
+
+.freedomain
+{
+	position:relative;
+	top:95px;
+	left:0px;
+	
+}
+
+.adjust
+{
+	position:relative;
+	top:-5%;
+	left:0%;
+}
+
+
+.characters
+{
+	
+	position:relative;
+	text-align: center;
+	top:40px;
+	left:120px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:750px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.vehicles
+{
+	position:relative;
+	top:40px;
+	left:120px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:750px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.concepts
+{
+	position:relative;
+	top:40px;
+	left:120px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:750px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+a img
+{
+  border:none;
+}
+
+a:hover
+{ 
+	border:solid 1px #4b4b4b;
+	/*box-shadow: 1px 1px 15px #3cff00;
+	-webkit-box-shadow: 1px 1px 15px #3cff00;
+	 box-shadow: 1px 1px 15px #3cff00;*/
+}
+
+.backbutton
+{	
+	position:relative;
+	text-align:center;
+	top:30px;	
+	
+}
+
+
+
+.contacttext
+{
+	position:relative;
+	text-align:center;
+	color:#696969;
+	font-size:20px;
+	top:70px;
+	left:0px;
+}
+
+.resumetext
+{
+	position:relative;
+	text-align:left;
+	color:#696969;
+	font-size:18px;
+	top:70px;
+	left:150px;
+	
+}
+/*____________________________________________________________________*/
+/* CHARACTER GALLERY ICONS*/
+.iconA
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconB
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconC
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+	
+.iconD
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconE
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconF
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconG
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconH
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.iconI
+{
+	float:left;
+	position:relative;
+	top:40px;
+	left:0px;
+	border:solid 1px #626262;
+	margin:25px;
+	width:200px;
+	height:200px;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;	
+}
+
+.backicon
+{
+	float:left;
+	position:relative;
+	top:100px;
+	left:50px;
+	margin:25px;
+	width:100px;
+	height:100px;
+	
+}
+
+
+
+/* CHARACTER GALLERY*/
+
+.skullsgallery
+{
+	
+	position:relative;
+	color:#7b7b7b;
+	width:800px; 
+	height:3300px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.copsgallery
+{
+	
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:3900px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+
+.orgegallery
+{
+	
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:8000px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+/* VEHICLES GALLERY*/
+.subwaygallery
+{
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:5700px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.tractorgallery
+{
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:4600px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.busgallery
+{
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:5900px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.garbagegallery
+{
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:5400px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
+.ambulancegallery
+{
+	position:relative;
+	color:#7b7b7b;
+	width:828px; 
+	height:4800px;
+	top:0%;
+	left:0%;
+	margin-left: auto ;				/* use to center everything on any screen*/
+	margin-right: auto ;			/* use to center everything on any screen*/
+	border:solid 1px #626262;
+	box-shadow: 1px 1px 20px #4b4b4b;
+	-webkit-box-shadow: 1px 1px 20px #4b4b4b;
+	 box-shadow: 1px 1px 20px #4b4b4b;
+}
+
